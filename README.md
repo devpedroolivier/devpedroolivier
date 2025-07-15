@@ -2,9 +2,9 @@
 
 <p align="center">
   <b>Desenvolvedor Python • Automação • Dados • FastAPI • Power BI</b><br>
-  <br>
-  <a href="https://linkedin.com/in/seu-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <b>CEO da POST - Process Optimization Solutions Tech</b><br><br>
+  <a href="https://www.linkedin.com/in/pedro-gabriel-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pedrogabrielcosta7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/github/followers/devpedroolivier?label=Followers&style=flat&logo=github" />
 </p>
 
@@ -12,6 +12,8 @@
 
 🎯 Sou um desenvolvedor Python focado em automação de processos, análise de dados e aplicações web.  
 Transformo rotinas manuais em sistemas ágeis, com dashboards e relatórios que facilitam decisões.
+
+🚀 Como CEO da [POST](https://www.posolutionstech.com.br/), lidero projetos que otimizam operações e geram valor real para empresas, unindo tecnologia e estratégia.
 
 ---
 
@@ -44,20 +46,7 @@ Transformo rotinas manuais em sistemas ágeis, com dashboards e relatórios que 
 
 ---
 
-<p align="center">💡 Busco sempre evoluir 1% ao dia.</p>
-
-
-<!--
-**devpedroolivier/devpedroolivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+💡 Quer otimizar o seu negócio com tecnologia?  
+👉 Conheça a <a href="https://www.posolutionstech.com.br/">POST</a> ou siga nosso <a href="https://www.instagram.com/posolutionstech/?hl=pt-br">Instagram</a>.
+</p>
