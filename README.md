@@ -1,8 +1,8 @@
 <h1 align="center">Pedro Gabriel da Costa Vieira Oliveira</h1>
 
 <p align="center">
-  <b>Desenvolvedor Python • Automação • Dados • FastAPI • Power BI</b><br>
-  <b>CEO da POST - Process Optimization Solutions Tech</b><br><br>
+  <b>Python Developer • Automation • Data • FastAPI • Power BI</b><br>
+  <b>CEO at POST - Process Optimization Solutions Tech</b><br><br>
   <a href="https://www.linkedin.com/in/pedro-gabriel-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pedrogabrielcosta7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/github/followers/devpedroolivier?label=Followers&style=flat&logo=github" />
@@ -10,14 +10,14 @@
 
 ---
 
-🎯 Sou um desenvolvedor Python focado em automação de processos, análise de dados e aplicações web.  
-Transformo rotinas manuais em sistemas ágeis, com dashboards e relatórios que facilitam decisões.
+🎯 I'm a Python developer focused on process automation, data analysis, and web applications.  
+I transform manual routines into agile systems, with dashboards and reports that drive decision-making.
 
-🚀 Como CEO da [POST](https://www.posolutionstech.com.br/), lidero projetos que otimizam operações e geram valor real para empresas, unindo tecnologia e estratégia.
+🚀 As the CEO of [POST](https://www.posolutionstech.com.br/), I lead projects that optimize operations and deliver real value to businesses by combining technology and strategy.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -38,7 +38,7 @@ Transformo rotinas manuais em sistemas ágeis, com dashboards e relatórios que 
 
 ---
 
-## 📝 Estatísticas do GitHub
+## 📝 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devpedroolivier&show_icons=true&theme=github_dark&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroolivier&layout=compact&theme=github_dark" height="150" />
@@ -47,6 +47,6 @@ Transformo rotinas manuais em sistemas ágeis, com dashboards e relatórios que 
 ---
 
 <p align="center">
-💡 Quer otimizar o seu negócio com tecnologia?  
-👉 Conheça a <a href="https://www.posolutionstech.com.br/">POST</a> ou siga nosso <a href="https://www.instagram.com/posolutionstech/?hl=pt-br">Instagram</a>.
+💡 Want to optimize your business with technology?  
+👉 Check out <a href="https://www.posolutionstech.com.br/">POST</a> or follow us on <a href="https://www.instagram.com/posolutionstech/?hl=pt-br">Instagram</a>.
 </p>
